@@ -1,6 +1,5 @@
 $bs_gutter: 15px;
 $content_max_width: 1680px;
-$h1_fz: 36px;
 
 
 
@@ -47,7 +46,7 @@ h1, .h1, .h2 {
 
 h1, .h1 {
   color: #fff;
-  font-size: $h1_fz;
+  font-size: 1.8em;
   font-weight: 700;
 }
 
@@ -242,7 +241,7 @@ h1, .h1 {
 
 @media (min-width: 992px) {
   h1, .h1 {
-    font-size: $h1_fz*1.33;
+    font-size: 2.4em;
     line-height: 55px;
   }
 
