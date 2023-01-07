@@ -37,6 +37,7 @@ h1, .h1, .h2 {
 
 h1, .h1 {
   color: #fff;
+  font-size: 36px;
   font-weight: 700;
 }
 
@@ -190,7 +191,7 @@ h1, .h1 {
 
 @media (min-width: 992px) {
   h1, .h1 {
-    font-size: 48px;
+    font-size: 1.3em;
     line-height: 55px;
   }
   .title-wrapper .title-column {
